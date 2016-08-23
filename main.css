@@ -1,0 +1,45 @@
+header {
+	font-size: 28px;
+  font-family: Palatino, "Palatino Linotype", serif;
+  color: rgb(55,118,190);
+  
+  }
+  header address {
+	  font-family: 'Trebuchet MS',Helvetica, sans-serif;
+	  color: black;
+	  font-size: 16px;
+	  display: flex;
+  }
+profile {
+	font-family: Palatino, "Palatino Linotype", serif;
+	font-size: 16px;
+	  color: black;
+	  
+}
+
+profile h1 {
+	font-family: 'Trebuchet MS',Helvetica, sans-serif;
+	font-size: 22px;
+	  color: gray;
+}
+experience {
+	font-family: Palatino, "Palatino Linotype", serif;
+	font-size: 16px;
+	  color: black;
+	  margin: 30px;
+}
+experience  h1{
+	font-family: 'Trebuchet MS',Helvetica, sans-serif;
+	font-size: 22px;
+	  color: gray;
+}
+history  h2{
+	font-family: 'Trebuchet MS',Helvetica, sans-serif;
+	font-size: 20px;
+	  color: gray;
+}
+experience h3 {
+	font-family: 'Trebuchet MS',Helvetica, sans-serif;
+	font-size: 22px;
+	  color: black;
+}
